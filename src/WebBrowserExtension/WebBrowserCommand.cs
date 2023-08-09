@@ -38,7 +38,7 @@ namespace WebBrowserExtension
 
         public static WebBrowserCommand Instance { get; private set; }
 
-        public static async Task InitializeAsync(AsyncPackage package)
+        public static async System.Threading.Tasks.Task InitializeAsync(AsyncPackage package)
         {
             await ThreadHelper.JoinableTaskFactory.SwitchToMainThreadAsync(package.DisposalToken);
 
