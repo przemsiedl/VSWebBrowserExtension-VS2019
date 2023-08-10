@@ -1,4 +1,4 @@
-# Web Browser Extension for VS2022
+# Web Browser Extension for VS2019
 
 <!-- https://vsmarketplacebadge.apphb.com/ -->
 [![VSMarketplace](https://vsmarketplacebadge.apphb.com/version-short/odalet.webbrowserforvs2022.svg)](https://marketplace.visualstudio.com/items?itemName=odalet.webbrowserforvs2022) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/odalet.webbrowserforvs2022.svg)](https://marketplace.visualstudio.com/items?itemName=odalet.webbrowserforvs2022) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/odalet.webbrowserforvs2022.svg)](https://marketplace.visualstudio.com/items?itemName=odalet.webbrowserforvs2022)
